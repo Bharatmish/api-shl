@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Verify Interactive – Numerical Reasoning",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "Assesses how the candidate comprehends numerical information in various formats."
+    },
+    {
+      "name": "Verify Interactive – Deductive Reasoning",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "Measures the ability to draw logical conclusions based on information provided, identify strengths and weaknesses of arguments, and complete scenarios using incomplete information."
+    },
+    {
+      "name": "Verify Interactive – Inductive Reasoning",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts."
+    },
+    {
+      "name": "Personality Assessment",
+      "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/",
+      "duration": "Varies",
+      "type": "Personality",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Improves hiring process with science-backed personality assessments that reveal each candidate's preferences, motivations, and remote-work capability."
+    },
+    {
+      "name": "Situational Judgment Test",
+      "url": "https://www.shl.com/solutions/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+      "duration": "Varies",
+      "type": "Behavioral",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Matches candidates' behavioral fit to your roles with a situational judgment test, typically administered early in the assessment process."
+    },
+    {
+      "name": "Technical Skills Assessment",
+      "url": "https://www.shl.com/solutions/products/assessments/skills-and-simulations/technical-skills/",
+      "duration": "Varies",
+      "type": "Technical",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Measures knowledge of 200+ technology concepts in less than 15 minutes for roles like Full Stack, Front-end, Data Science, and more."
+    },
+    {
+      "name": "Verify – Verbal Ability",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "Measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and predict author responses."
+    },
+    {
+      "name": "Java 8 (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+      "duration": "18 mins",
+      "type": "Technical",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC, and Java I/O fundamentals."
+    },
+    {
+      "name": "Python 3.6",
+      "url": "https://www.shl.com/c/global/ibm-kenexa-catalog/view/33495-python-3-6/",
+      "duration": "Varies",
+      "type": "Technical",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Designed to assess a test taker's general knowledge of Python, covering topics like default operators, decisions and loops, functions, command line and environment, and syntax."
+    },
+    {
+      "name": "Verify – Deductive Reasoning",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "An online ability assessment that can be used to support both pre- and post-hire assessment processes, measuring deductive reasoning ability."
+    },
+    {
+      "name": "Verify – Inductive Reasoning (2014)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "A test used for job candidates applying to jobs at all levels that require logical reasoning ability."
+    },
+    {
+      "name": "Verify – General Ability Screen",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "A measure of general mental ability or 'g', targeted at entry-level roles, designed to precede other measures to provide process efficiency."
+    },
+    {
+      "name": "Core Java (Entry Level) (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "duration": "13 mins",
+      "type": "Technical",
+      "remote": "Yes",
+      "adaptive": "No",
+      "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class, and inner class."
+    },
+    {
+      "name": "Graduate + 8.0 Job Focused Assessment",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "A short, targeted, globally applicable assessment which includes a short cognitive ability measure, designed for professional level positions appropriate for recent college graduates."
+    },
+    {
+      "name": "Verify G+ - Ability Test",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test/",
+      "duration": "Varies",
+      "type": "Cognitive",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "description": "A highly predictive test of general mental ability with a very short completion time, used to support volume recruitment or shortlisting."
+    }
+  ]
+  

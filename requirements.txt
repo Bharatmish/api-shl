@@ -1,0 +1,15 @@
+# --- Core ML & NLP ---
+faiss-cpu==1.7.4                    # Fast vector search
+sentence-transformers==2.5.1        # Embedding models
+numpy==1.26.4                       # Numerical computations
+
+# --- FastAPI Backend ---
+fastapi==0.110.1                    # API framework
+uvicorn==0.29.0                     # ASGI server to run FastAPI
+python-dotenv==1.0.1                # Load environment variables from .env
+
+# --- LLM Integration (Gemini API) ---
+google-generativeai==0.5.2          # Gemini API client
+
+# --- Utils ---
+requests==2.31.0                    # HTTP requests (used by Gemini or other APIs)
