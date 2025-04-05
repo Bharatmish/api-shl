@@ -5,7 +5,8 @@ import os
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
-from query_parser import parse_query_with_llm
+from src.query_parser import parse_query_with_llm
+
 
 # --- CONFIG ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
