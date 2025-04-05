@@ -1,7 +1,8 @@
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from combined_recommender import smart_recommend
+from src.combined_recommender import smart_recommend
+
 
 app = FastAPI(title="SHL Assessment Recommender")
 
